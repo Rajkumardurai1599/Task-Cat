@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: black !important;
+}
+.title {
+  color: white;
+  padding-top: 2%;
+}
+
+h1 {
+  text-align: center;
+}
+.card {
+  text-align: center;
+  border: 2px solid black;
+}
+.btn {
+  background-color: aqua !important;
+  width: auto !important;
+  text-align: center !important;
+  margin-left: 47% !important;
+}
+.image {
+  background-color: white !important;
+}
+.card-body {
+  background-color: white !important;
+}
